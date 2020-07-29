@@ -1,5 +1,4 @@
-# Pokedex
-Pokedex + Quiz Pokemon
+# Pokedex + Quiz Pokemon
 ---
 
 Desenvolvi uma Pokedex e um Quiz Pokemon para aprender e treinar sobre consumo de APIs
